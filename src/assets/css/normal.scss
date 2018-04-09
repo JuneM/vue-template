@@ -1,0 +1,34 @@
+p {
+  margin: 5px;
+}
+.page {
+  margin: 15px 0;
+}
+.mu-td, .mu-th {
+  word-break: break-all;
+  white-space: inherit!important;
+}
+.mu-raised-button {
+  margin: 5px 0;
+}
+.inline-block {
+  display: inline-block;
+  margin-right: 10px;
+  vertical-align: bottom;
+}
+.search {
+  .mu-text-field {
+    text-align: center;
+    width: 150px!important;
+  }
+  .mu-date-picker {
+    text-align: center;
+    width: 150px!important;
+  }
+  .mu-text-field-input {
+    text-align: center;
+  }
+}
+.mr5 {
+  margin-right: 5px;
+}

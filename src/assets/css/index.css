@@ -1,0 +1,21 @@
+.pull-left {
+  float: left!important;
+}
+.pull-right {
+  float: right!important;
+}
+.clearfix {
+  height: 1%;
+}
+.clearfix:after {
+  content: ".";
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  clear: both;
+  height: 0;
+}
+
+input {
+  padding: 5px 10px;
+}
